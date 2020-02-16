@@ -1,10 +1,10 @@
 # Engineering-Economics
-A repository for the Engineering Econimcs, in Amirkabir University of Technology.
+A repository for the Engineering Econimcs, in Amirkabir University of Technology.<br/>
 Engineering  economy  is  the  discipline  concerned  with  the  economic 
 aspect  of  engineering.  It  involves  the  systematic  evaluation  with  the  economic 
 merits  of  proposed  solutions  to  the  engineering  problems.  To  be  economically 
 acceptable (i.e., affordable), solutions to engineering problem must demonstrate 
-a positive balance of long term benefits over long term cost. 
+a positive balance of long term benefits over long term cost. <br/><br/>
  
   Engineering economics is the application of economic techniques to the 
 evaluation  of  design  and  engineering  alternatives.  The  role  of  engineering 
